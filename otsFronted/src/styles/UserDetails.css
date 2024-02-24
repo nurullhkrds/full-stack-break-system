@@ -1,0 +1,16 @@
+.datetime {
+    font-weight: bold;
+    color: #333; /* Change color as needed */
+    font-size: 16px; /* Adjust font size as needed */
+    /* Add any other styles you want */
+  }
+  
+  p {
+    margin-bottom: 15px; /* Adjust spacing between paragraphs as needed */
+  }
+  
+  h3 {
+    color: #555; /* Change color as needed */
+    /* Add any other styles you want for the headings */
+  }
+  

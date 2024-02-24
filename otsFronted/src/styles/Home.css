@@ -1,0 +1,25 @@
+.digital-clock {
+    font-family: 'Arial', sans-serif;
+    font-size: 3em;
+    color: #000;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    animation: pulse 1s infinite alternate;
+  }
+  
+  .break-mode {
+    background-color: #7e7b7b; 
+  }
+  
+  @keyframes pulse {
+    from {
+      transform: scale(1);
+    }
+    to {
+      transform: scale(1.05);
+    }
+  }
